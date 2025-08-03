@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente curso Ciências da Computação na Universidade Federal de Campina Grande(UFCG)
+🔭 Atualmente curso Ciências da Computação na Universidade Federal de Campina Grande(UFCG)<br>
 ⚡ Apaixonado por tecnologia desde muito novo, busco explorar e desbravar cada vez mais essa paixão
 
 
